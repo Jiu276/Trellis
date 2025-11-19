@@ -122,6 +122,18 @@
   color: var(--text-dark);
 }
 
+.article-text a {
+  color: #0a7cc1;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  transition: color 0.2s ease;
+}
+
+.article-text a:hover {
+  color: var(--primary-color);
+}
+
 /* Featured Products */
 .featured-products {
   margin: 3rem 0;
