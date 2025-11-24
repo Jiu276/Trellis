@@ -549,7 +549,7 @@ export const articles = [
     date: "2025-11-05",
     readTime: "10 min read",
     excerpt: "Discover hidden gems and must-see experiences in cities around the world. From immersive art installations to secret rooftop concerts, find your next adventure with curated event recommendations.",
-    image: "https://images.unsplash.com/photo-1511578314322-379afb476865?w=1200&q=80",
+    image: "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1200&q=80",
     featured: true,
     content: `
       <h2>Why I Started Exploring City Events</h2>
@@ -599,10 +599,19 @@ export const articles = [
       <p>I like to mix high-energy and low-key experiences. A morning cooking class followed by an evening concert. A daytime walking tour balanced with a late-night speakeasy visit. Variety keeps things interesting and prevents burnout.</p>
       <p>I also pay attention to the weather. That outdoor rooftop event might sound amazing, but if it's pouring rain, you'll wish you'd booked the indoor gallery tour instead. The <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=83ccT9ma88fTKpfpmgjBj9qWz_a1jVijL4ruzdal4lOsl97uUAw2U6hxA0mLYScCEKPmxU_b_avu8U_c&new=https%3A%2F%2Ffeverup.com">Fever app</a> often includes weather considerations in their recommendations, which is a nice touch.</p>
 
+      <h2>Local Voices, Real Stories</h2>
+      <p>One of my favorite parts of event-hopping is chatting with locals before the show starts. In London, a gallery curator tipped me off to an after-hours tour that only opens to lists published on <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=83ccT9ma88fTKpfpmgjBj9qWz_a1jVijL4ruzdal4lOsl97uUAw2U6hxA0mLYScCEKPmxU_b_avu8U_c&new=https%3A%2F%2Ffeverup.com">Fever's local recommendations</a>. In Tokyo, a fellow attendee shared a secret ramen pop-up that paired perfectly with the neon art show we’d just experienced.</p>
+      <p>These conversations reminded me that cultural calendars aren’t just schedules—they’re invitations into someone else’s daily life. The more I lean on curated platforms like <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=83ccT9ma88fTKpfpmgjBj9qWz_a1jVijL4ruzdal4lOsl97uUAw2U6hxA0mLYScCEKPmxU_b_avu8U_c&new=https%3A%2F%2Ffeverup.com">Fever</a>, the easier it is to show up ready to connect rather than wandering aimlessly.</p>
+
+      <h2>Balancing Budget and Experience</h2>
+      <p>People assume these events are expensive. Truth? Many cost less than a single tourist attraction ticket. I track my spending with a simple rule: one premium experience balanced with one wallet-friendly option. The <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=83ccT9ma88fTKpfpmgjBj9qWz_a1jVijL4ruzdal4lOsl97uUAw2U6hxA0mLYScCEKPmxU_b_avu8U_c&new=https%3A%2F%2Ffeverup.com">Fever deals page</a> lists flash pricing and bundle offers, so I can justify stretching for that candlelit symphony knowing tomorrow’s street-food crawl is free.</p>
+      <p>Keeping notes in the app’s “favorites” tab has saved me more than once. When I see an experience dip in price, I’ll grab tickets for future trips. It feels less like bargain hunting and more like curating my own festival lineup.</p>
+
       <h2>Final Thoughts</h2>
       <p>Exploring city events has transformed how I travel. Instead of checking landmarks off a list, I'm creating memories that feel personal and authentic. Whether it's discovering a new favorite band at an intimate venue or learning to make pasta from a nonna in Rome, these experiences stick with you long after you've returned home.</p>
       <p>The key is staying curious and being willing to step outside your comfort zone. That event you're not sure about? Book it anyway. The worst case is you have a story to tell. The best case is you discover something that changes how you see the world.</p>
       <p>Start with one event on your next trip. Browse <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=83ccT9ma88fTKpfpmgjBj9qWz_a1jVijL4ruzdal4lOsl97uUAw2U6hxA0mLYScCEKPmxU_b_avu8U_c&new=https%3A%2F%2Ffeverup.com">Fever's curated selection</a> for your destination, read a few reviews, and take the plunge. You might just find your new favorite way to travel.</p>
+      <p>And when you do, leave a review. Those honest lines about crowd size, sound quality, or restroom availability become lifelines for the next traveler scrolling through the <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=83ccT9ma88fTKpfpmgjBj9qWz_a1jVijL4ruzdal4lOsl97uUAw2U6hxA0mLYScCEKPmxU_b_avu8U_c&new=https%3A%2F%2Ffeverup.com">Fever community feed</a>. It’s a circle of generosity that keeps the adventures coming.</p>
     `,
     products: []
   },
@@ -658,10 +667,74 @@ export const articles = [
       <p>But they can also be wonderful shared experiences. I've taken dates to candlelit concerts (always a hit), brought friends to immersive exhibitions (great conversation starters), and even organized group outings for work teams (surprisingly effective for bonding). The <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=3c10v8wUgevQGizGJ3ZONrXAMF4TzUcd234Hxhh7BUgUaEBblxrk46uSVwXy15y_akJrTI8UtHhU_c&new=https%3A%2F%2Ffeverup.com">social event options</a> available through these platforms make it easy to plan for any group size.</p>
       <p>The key is matching the experience to your social goals. Want something intimate and romantic? Candlelit concerts are perfect. Looking for something fun and interactive? Try an immersive art experience. Need something that works for a group with diverse tastes? <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=3c10v8wUgevQGizGJ3ZONrXAMF4TzUcd234Hxhh7BUgUaEBblxrk46uSVwXy15y_akJrTI8UtHhU_c&new=https%3A%2F%2Ffeverup.com">Fever's group-friendly listings</a> make it easy to find options that work for everyone.</p>
 
+      <h2>Behind the Scenes With Performers</h2>
+      <p>Every so often, an artist will share a glimpse into their preparation. At a recent candlelit tribute, the violinist mentioned discovering the gig through <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=3c10v8wUgevQGizGJ3ZONrXAMF4TzUcd234Hxhh7BUgUaEBblxrk46uSVwXy15y_akJrTI8UtHhU_c&new=https%3A%2F%2Ffeverup.com">Fever's performer portal</a>. Hearing that reminded me these events support creatives as much as attendees.</p>
+      <p>Now, when I book something new, I skim the artist bios in the app. Knowing who’s behind the performance makes applauding at the end feel more personal—like we’re all part of the same story, not just an audience in the dark.</p>
+
+      <h2>How I Build My Weekend Culture Runs</h2>
+      <p>My ideal Saturday now includes a morning coffeehouse acoustic set, an afternoon gallery walkthrough, and an evening immersive theater piece. I batch-book through <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=3c10v8wUgevQGizGJ3ZONrXAMF4TzUcd234Hxhh7BUgUaEBblxrk46uSVwXy15y_akJrTI8UtHhU_c&new=https%3A%2F%2Ffeverup.com">Fever's multi-event cart</a>, then invite friends with a shared link.</p>
+      <p>That simple workflow keeps the spontaneity intact while ensuring I’m not scrambling for tickets at the last minute. It’s the closest I’ve come to curating my own cultural festival—and yes, there’s always room for a late-night dessert stop in between.</p>
+
       <h2>Final Thoughts</h2>
       <p>Music and culture don't have to be intimidating or boring. They can be transformative, engaging, and genuinely fun. The key is finding experiences that speak to you, whether that's a traditional concert in an unconventional space or a completely new format you've never tried.</p>
       <p>I've discovered more about my own tastes through these experiences than I ever did sticking to the familiar. And I've made memories that feel more vivid, more real, than anything I've experienced in a traditional venue.</p>
       <p>If you're curious but unsure where to start, browse <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=3c10v8wUgevQGizGJ3ZONrXAMF4TzUcd234Hxhh7BUgUaEBblxrk46uSVwXy15y_akJrTI8UtHhU_c&new=https%3A%2F%2Ffeverup.com">Fever's curated cultural experiences</a>. Read the reviews, check the photos, and take a chance on something that catches your eye. You might just find your new favorite way to experience art and music.</p>
+    `,
+    products: []
+  },
+  {
+    id: 14,
+    title: "Early Black Friday at Legion: Buy One Get One 50% Off",
+    slug: "early-black-friday-legion-bogo",
+    category: "Fitness Deals",
+    author: "Jared Lewis",
+    date: "2025-11-10",
+    readTime: "9 min read",
+    excerpt: "Stock up on clinically backed supplements, cozy gym apparel, and limited edition bundles during Legion's Early Black Friday event featuring a Buy One Get One 50% Off offer across best-selling lines.",
+    image: "https://images.unsplash.com/photo-1556817411-31ae72fa3ea0?w=1200&q=80",
+    featured: true,
+    content: `
+      <h2>Why This BOGO Actually Matters</h2>
+      <p>I've seen enough “limited-time” fitness promos to stay skeptical, but this one is different. The Early Black Friday sale from <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=3facouFpMWIcCzsyoX6QtOioAkkoEG1S_aNqMwLznBLyFD28U5bRGY2Z7HkRNp68QQGxATYQ6cfPGABg_c&new=https%3A%2F%2Flegionathletics.com">Legion</a> is a true Buy One Get One 50% Off across core products. I restocked my morning Legion Pulse and grabbed a second tub at half price—no hoops, no hidden bundles. When you're already loyal to a supplement stack, cutting the cost of refills by 25% overall feels like free gains.</p>
+
+      <h2>What I Picked Up (and Why)</h2>
+      <p>Here's what landed in my cart the minute the sale went live:</p>
+      <ul>
+        <li><strong>Pulse Pre-Workout (Sour Candy):</strong> Transparent dosing, no jitters, and the flavor that gets me out the door for 6 a.m. training. Pairing it with the BOGO meant I’m stocked through January.</li>
+        <li><strong>Whey+ (Chocolate Peanut Butter):</strong> Microfiltered whey isolate with digestive enzymes—basically the only shake my stomach tolerates when I’m cutting. Snagged a second tub for half off to cover post-training recovery.</li>
+        <li><strong>Triumph Multivitamin:</strong> I treat this as nutritional insurance on high-volume blocks. BOGO pricing convinced me to finally add it to my routine rather than “save it for later.”</li>
+      </ul>
+      <p>If you're new to the ecosystem, the <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=3facouFpMWIcCzsyoX6QtOioAkkoEG1S_aNqMwLznBLyFD28U5bRGY2Z7HkRNp68QQGxATYQ6cfPGABg_c&new=https%3A%2F%2Flegionathletics.com">Legion product quiz</a> is surprisingly helpful. It suggests stacks based on training goals and flavors you actually like, and every recommendation is eligible for the promotion.</p>
+
+      <h2>Soft Perks Hidden Inside the Sale</h2>
+      <p>Beyond the headline discount, there are a few subtle wins that make this feel more premium than your usual supplement blowout:</p>
+      <ul>
+        <li><strong>Giftable packaging:</strong> The minimalist tubs look sharp enough to wrap as holiday gifts for gym friends. I threw a couple into stocking-stuffer piles.</li>
+        <li><strong>Apparel add-ons:</strong> Select hoodies and joggers trigger the same discount, so you can build a winter training kit while you stock up on protein.</li>
+        <li><strong>Rewards stacking:</strong> Purchases still earn Legion reward points, so you’re double-dipping on value. I already see a free bottle of fish oil in my future.</li>
+      </ul>
+
+      <h2>Goal-Based Stack Ideas</h2>
+      <p>If you’re overwhelmed by options, map your cart to your current phase. During hypertrophy cycles, I pair Whey+ with Recharge creatine so recovery stays ahead of training volume. Cutting season? I lean on Phoenix alongside Legion’s caffeinated <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=3facouFpMWIcCzsyoX6QtOioAkkoEG1S_aNqMwLznBLyFD28U5bRGY2Z7HkRNp68QQGxATYQ6cfPGABg_c&new=https%3A%2F%2Flegionathletics.com">Legion Energy Surge gummies</a> to curb cravings without wrecking sleep.</p>
+      <p>The product descriptions on the <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=3facouFpMWIcCzsyoX6QtOioAkkoEG1S_aNqMwLznBLyFD28U5bRGY2Z7HkRNp68QQGxATYQ6cfPGABg_c&new=https%3A%2F%2Flegionathletics.com">Legion store</a> include suggested pairings, so you can assemble a beginner, endurance, or strength stack without overthinking dosages.</p>
+
+      <h2>Behind the Formula</h2>
+      <p>Part of why I trust this sale is the transparency. The <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=3facouFpMWIcCzsyoX6QtOioAkkoEG1S_aNqMwLznBLyFD28U5bRGY2Z7HkRNp68QQGxATYQ6cfPGABg_c&new=https%3A%2F%2Flegionathletics.com">Legion ingredient breakdowns</a> list exact clinical doses and link to supporting research. When I recommend these products to training partners, I can point to the studies instead of shrugging and saying “trust me.”</p>
+      <p>During a live chat, a sports nutritionist from the <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=3facouFpMWIcCzsyoX6QtOioAkkoEG1S_aNqMwLznBLyFD28U5bRGY2Z7HkRNp68QQGxATYQ6cfPGABg_c&new=https%3A%2F%2Flegionathletics.com">Legion support team</a> even walked me through adjusting my magnesium intake based on training load. That kind of access turns a discount into an actual coaching moment.</p>
+
+      <h2>Tips for Maximizing the Deal</h2>
+      <p>Start by adding pairs of items into your cart so you can see the discount on the second unit in real time. If flavors go out of stock, mix and match with another SKU—<a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=3facouFpMWIcCzsyoX6QtOioAkkoEG1S_aNqMwLznBLyFD28U5bRGY2Z7HkRNp68QQGxATYQ6cfPGABg_c&new=https%3A%2F%2Flegionathletics.com">Legion</a> allows different flavors within the same product line to still qualify.</p>
+      <p>I also recommend checking the “Limited Release” section. That’s where I found the Cinnamon Cereal whey flavor that usually sells out. With the BOGO applied, it felt like I finally beat the bots.</p>
+
+      <h2>FAQs Before You Check Out</h2>
+      <p><strong>How long does the Early Black Friday window last?</strong> The promo runs until inventory dips below a certain threshold. Historically, popular flavors disappear within the first weekend, so don’t wait for the official holiday rush.</p>
+      <p><strong>Can I stack this with referral credits?</strong> Yes. Referral codes and loyalty points still apply, making the <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=3facouFpMWIcCzsyoX6QtOioAkkoEG1S_aNqMwLznBLyFD28U5bRGY2Z7HkRNp68QQGxATYQ6cfPGABg_c&new=https%3A%2F%2Flegionathletics.com">Legion checkout</a> page look like a math problem in your favor.</p>
+      <p><strong>Does shipping keep up?</strong> I received my order in four days with standard shipping. Legion’s warehouse team clearly prepped for the surge—no backorder emails, no delays.</p>
+      <p><strong>What if I’m new to supplements?</strong> Start with the Starter Stack highlighted on the <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=3facouFpMWIcCzsyoX6QtOioAkkoEG1S_aNqMwLznBLyFD28U5bRGY2Z7HkRNp68QQGxATYQ6cfPGABg_c&new=https%3A%2F%2Flegionathletics.com">Legion homepage</a>. It’s pre-bundled for the promo and comes with a mini guide that explains timing, dosages, and what to expect during the first week.</p>
+
+      <h2>Final Scoop</h2>
+      <p>If your supplement cabinet needs a reset before New Year’s resolutions kick in, this is the moment. The Early Black Friday BOGO from <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=3facouFpMWIcCzsyoX6QtOioAkkoEG1S_aNqMwLznBLyFD28U5bRGY2Z7HkRNp68QQGxATYQ6cfPGABg_c&new=https%3A%2F%2Flegionathletics.com">Legion</a> is the rare sale that respects savvy shoppers—transparent discounts, no bundles you don’t need, and plenty of ways to personalize the cart.</p>
+      <p>Build a list, pair up your must-haves, and check out before the good flavors vanish. Trust me: it feels a lot better to enter winter overstocked on quality supplements than scrambling during the New Year rush. Screenshot your cart, share it in the <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=3facouFpMWIcCzsyoX6QtOioAkkoEG1S_aNqMwLznBLyFD28U5bRGY2Z7HkRNp68QQGxATYQ6cfPGABg_c&new=https%3A%2F%2Flegionathletics.com">Legion community forum</a>, and swap flavor reviews with other athletes while the deals last.</p>
     `,
     products: []
   }
@@ -673,5 +746,6 @@ export const categories = [
   "Platform Reviews",
   "Technology",
   "Lifestyle",
-  "Travel Deals"
+  "Travel Deals",
+  "Fitness Deals"
 ];
