@@ -934,41 +934,45 @@ export const articles = [
     author: "Ava Bennett",
     date: "2026-01-12",
     readTime: "7 min read",
-    excerpt: "From installation to takedown, <a href=\"https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F\">Cécred</a>'s <a href=\"https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F\">Protection Collection</a> is built to keep the scalp calm, the hair hydrated, and your style looking fresh—without the heavy buildup.",
-    image: "https://images.unsplash.com/photo-wSywHcucHkk?w=1200&q=80",
+    excerpt: "From installation to takedown, <a href=\"https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F\">Cécred</a>'s <a href=\"https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F\">Protection Collection</a> is made for real-life protective styles—calm scalp days, softer lengths, and a routine that keeps your <a href=\"https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F\">Cécred</a> results feeling fresh, not coated.",
+    image: "https://images.unsplash.com/photo-1636708115005-9f1896b046c2?fm=jpg&q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
     featured: true,
     content: `
-      <h2>Why Protection Starts With the Scalp</h2>
-      <p>Protective styles can be a game-changer for length retention and day-to-day ease—but only when the hair and scalp underneath stay clean, comfortable, and moisturized. That’s the idea behind <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Cécred</a>’s <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Protection Collection</a>: a tight edit of essentials designed to support nourished, healthy hair from installation to takedown.</p>
+      <h2>Why Protection Starts With the Scalp (and a Real-Life Confession)</h2>
+      <p>I used to be the person who got fresh braids, promised myself I’d “take care of my scalp this time,” and then… promptly forgot until day nine, when the itch showed up like an alarm clock I couldn’t snooze. If you’ve been there, you already know the truth: protective styles only feel protective when what’s underneath is actually cared for.</p>
+      <p>That’s what pulled me into <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Cécred</a> and specifically the <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Protection Collection</a>: it’s not just “pretty bottles” or a banner-worthy drop. It’s a routine that acknowledges the messy middle—days between washes, product buildup at the roots, and the reality that you can’t always access your scalp easily once a style is installed.</p>
 
-      <h2>What Makes the <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Protection Collection</a> Different</h2>
-      <p>A common protective-style mistake is over-layering heavy oils and butters to “seal” dryness—only to end up with itchy buildup and limp roots. The <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Cécred</a> approach focuses on targeted cleansing, scalp refresh, and replenishing moisture so hair stays flexible—not coated.</p>
+      <h2>The Soft-Launch Kind of “Ad” That Actually Helps</h2>
+      <p>I’m not a fan of hard-sell hair content. I prefer the kind of recommendation you’d give a friend in a voice note: “Here’s what worked, here’s what didn’t, and here’s what I’m buying again.” The <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Cécred</a> approach feels like that. It’s quietly practical—built for the moments nobody glamorizes, like that “takedown day” when you’re trying not to snap your ends while pulling shed hair out of a braid base.</p>
 
-      <h2>Meet the Five Essentials</h2>
-      <p>If you like a simple routine, this lineup is easy to understand and even easier to use consistently:</p>
+      <h2>What the <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Protection Collection</a> Is Really Designed to Solve</h2>
+      <p>The common protective-style spiral goes like this: dryness → heavy oiling → sticky roots → itch → more product → more buildup. By the time you wash, you’re not cleansing hair—you’re negotiating with it.</p>
+      <p>What I like about <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Cécred</a> is the order of operations: refresh first, cleanse properly when it matters, then nourish with intention. It’s less “pile on” and more “target the problem.” That’s a subtle difference—but your scalp feels it.</p>
+
+      <h2>Meet the Five Essentials (and How They Fit in Real Life)</h2>
       <ul>
-        <li><strong>Scalp Refreshing Spray:</strong> A no-rinse refresh that helps dissolve and lift buildup between wash days—especially helpful when your parts aren’t as accessible.</li>
-        <li><strong>Detoxifying Shampoo:</strong> A deeper cleanse meant to reset hair after takedown by removing oil, residue, and product film in a single wash.</li>
-        <li><strong>Oil Ritual:</strong> A treatment oil blend for softness and shine; ideal when hair feels thirsty or rough, and a great “seal” step when used lightly.</li>
-        <li><strong>Hair &amp; Scalp Balm:</strong> A richer texture for edges, ends, and any areas that need concentrated care and comfort.</li>
-        <li><strong>Detangling Spray:</strong> A slip-boosting helper for takedown days, when knots and shed-hair tangles can turn into breakage fast.</li>
+        <li><strong><a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Scalp Refreshing Spray</a>:</strong> The “save me from day-10 scalp” step. I use it when parts feel gunky or itchy, especially around the hairline.</li>
+        <li><strong><a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Detoxifying Shampoo</a>:</strong> Not your daily wash—this is the reset button after takedown, when you want your hair to feel like hair again.</li>
+        <li><strong><a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Oil Ritual</a>:</strong> The “softness insurance.” A small amount goes a long way—think ends first, then whatever’s left for the mid-lengths.</li>
+        <li><strong><a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Hair &amp; Scalp Balm</a>:</strong> For edges, ends, and those “my scalp feels tight” moments. I like it most around the perimeter.</li>
+        <li><strong><a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Detangling Spray</a>:</strong> The hero for takedown days—because the fastest way to “protect” hair is reducing friction when you’re separating shed hair.</li>
       </ul>
 
-      <h2>A Simple Routine: Install → Maintain → Takedown</h2>
+      <h2>My “Install → Maintain → Takedown” Flow (No Perfection Required)</h2>
       <h3>1) Before installation</h3>
-      <p>Start with a clean base so your protective style lasts longer and feels better. Cleanse thoroughly, then apply lightweight nourishment so hair is hydrated without feeling greasy.</p>
+      <p>If you do one thing, do this: start clean. A solid cleanse sets the tone for the entire style. When I skip it, I regret it. If you’re shopping from one place, the <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Cécred</a> system makes it easy to build that “clean base” habit without overthinking.</p>
 
-      <h3>2) During the style</h3>
-      <p>Think “refresh and soothe,” not “pile on.” Use a targeted scalp refresher to keep roots comfortable, then add oil or balm sparingly where dryness shows up (often the perimeter and ends).</p>
+      <h3>2) While the style is in</h3>
+      <p>This is where I used to fail. Now I keep it simple: refresh the scalp when it starts to feel off, then add just enough nourishment to stop the ends from feeling like straw. The <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Protection Collection</a> is built for exactly that in-between rhythm—maintenance that doesn’t turn into buildup.</p>
 
-      <h3>3) After takedown</h3>
-      <p>This is where buildup and shed-hair tangles can cause the most breakage. Reach for slip first, then cleanse to remove residue, and finish with conditioning steps that restore flexibility and shine.</p>
+      <h3>3) Takedown day</h3>
+      <p>Takedown is emotional. You’re excited to see your curls again, then immediately humbled by the tangles. I start with slip, go slow, and treat it like a process—not a race. A good detangling step plus a real cleanse after is where the “healthy hair” part actually happens.</p>
 
-      <h2>Should You Get the Bundle?</h2>
-      <p>If you’re building a protective-style routine from scratch, the <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Cécred</a> <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Protection Collection</a> bundle is the most streamlined way to cover every stage—cleanse, refresh, nourish, and detangle—without mixing mismatched formulas.</p>
+      <h2>Do You Need the Bundle or Just a Few Pieces?</h2>
+      <p>If you already love your wash day staples, you could cherry-pick. But if you want one cohesive routine that covers install, refresh, nourishment, and takedown, the <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Cécred</a> <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Protection Collection</a> bundle is the cleanest “one-and-done” option. It’s the kind of purchase that quietly reduces bad hair days—because it removes the guesswork.</p>
 
       <h2>Final Take</h2>
-      <p>Nourished, healthy hair isn’t just about what you do on wash day—it’s what you do in between. If you wear braids, twists, or any long-term style, <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Cécred</a>’s <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Protection Collection</a> is a polished, practical way to keep hair thriving while your style does its job.</p>
+      <p>For me, the best hair routine is the one I’ll actually do when I’m tired. The <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Cécred</a> <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Protection Collection</a> feels like it was made for that: simple steps, no drama, and a real shot at keeping your scalp comfortable and your hair nourished while your style does its job.</p>
     `,
     products: []
   }
