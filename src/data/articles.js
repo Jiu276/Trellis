@@ -866,6 +866,111 @@ export const articles = [
       <p>And honestly? That's worth it. Check out the <a href="https://victoriassecret.pl/vs">Victoria's Secret</a> website when you're ready—you might just find your new favorite lazy-day uniform.</p>
     `,
     products: []
+  },
+  {
+    id: 13,
+    title: "Alpenwahnsinn: Crazy for Tracht! Discover Traditional Dirndl & Lederhosen",
+    slug: "alpenwahnsinn-crazy-for-tracht-dirndl-lederhosen",
+    category: "Fashion",
+    author: "Emma Rodriguez",
+    date: "2026-02-13",
+    readTime: "7 min read",
+    excerpt: "I never thought I'd fall this hard for traditional Bavarian fashion. Here's how a family-run shop changed my entire perspective on Dirndl and Lederhosen.",
+    image: "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?w=1200&q=80",
+    featured: true,
+    content: `
+      <h2>The Dirndl That Started It All</h2>
+      <p>I'll be honest—I used to think <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Dirndl</a> were just costumes. You know, the kind of thing you rent for Oktoberfest, wear once while spilling beer on it, then return the next day with a vague sense of regret. That was before I actually wore a real one.</p>
+      <p>Last September, my friend Anna invited me to a traditional wedding in Bavaria. "You need a proper <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Dirndl</a>," she said. "Not one of those cheap costume things." She sent me a link to this family shop she'd been buying from for years. The name alone made me smile: <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Alpenwahnsinn</a>—literally "Alpine Madness."</p>
+      <p>I clicked through, half-expecting another generic online store. Instead, I found myself scrolling for an hour, completely mesmerized by the colors, the details, the sheer variety. These weren't costumes. These were actual, beautiful <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">traditional garments</a> that people clearly cared about.</p>
+
+      <h2>When Quality Actually Means Something</h2>
+      <p>The <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Dirndl</a> I ordered arrived in this carefully wrapped package, and I could tell immediately that someone had packed it with care. The fabric felt substantial in my hands—not that flimsy polyester nonsense, but real cotton with a weight to it. The embroidery on the bodice was intricate, done by hand, with tiny flowers that actually looked like flowers.</p>
+      <p>I tried it on in my bedroom, half-expecting it to look ridiculous. Instead, I stood there staring at myself in the mirror for a solid five minutes. The fit was perfect—the bodice supportive without being uncomfortable, the skirt falling just right. I felt elegant. I felt... pretty, in a way I hadn't expected.</p>
+      <p>At the wedding, I got more compliments than I've ever received on any outfit. But more than that, I felt comfortable. I danced, I ate, I sat on the grass during the outdoor ceremony, and the <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Dirndl</a> held up beautifully. By the end of the night, while other guests were adjusting straps and tugging at uncomfortable seams, I was still perfectly put together.</p>
+      <p>That's when I understood what Anna meant about "proper" <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Dirndl</a>. The difference isn't just aesthetic—it's about how you feel wearing it, how it moves with you, how it lasts.</p>
+
+      <h2>The Family Behind the Madness</h2>
+      <p>I got curious after that wedding and started digging into the story behind <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Alpenwahnsinn</a>. Turns out it's run by the Kühr-Volkenanndt family, and they've been doing this for over 25 years. The whole family works in the business—parents, kids, everyone. Even the children model some of the pieces or help with photography as they get older.</p>
+      <p>There's something refreshing about that. In a world where everything feels mass-produced and impersonal, knowing that actual people who care about this stuff are selecting each piece makes a difference. They're not just selling <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Trachten</a>—they genuinely love it. You can tell from how they describe things, from the way they photograph the details, from the care that goes into every aspect of their shop.</p>
+      <p>I ended up calling their customer service once because I couldn't decide between two apron styles. The woman I spoke with spent twenty minutes with me, not rushing, actually helping me think through which would work better with the <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Dirndl</a> I already owned. That doesn't happen at big retailers. That's the family business difference.</p>
+
+      <h2>My Lederhosen Experiment</h2>
+      <p>After my <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Dirndl</a> success, I got a little bold. My partner's birthday was coming up, and I thought, why not try <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Lederhosen</a>? He's not particularly traditional, but he appreciates quality clothing, and I figured if anyone could make <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Lederhosen</a> look good on a guy who usually lives in jeans, it would be a well-made pair.</p>
+      <p>I went back to the same shop and found a classic style in dark brown leather. The description mentioned that the leather would age and develop character over time, which sounded promising. When they arrived, the craftsmanship was immediately obvious—thick, supple leather with detailed embroidery and sturdy construction.</p>
+      <p>He was skeptical at first. "I'm going to look like I'm trying too hard," he said. But he tried them on, and something shifted. They fit him perfectly, and the leather had this beautiful, natural look that didn't feel costume-y at all. He wore them to a beer garden the next weekend, paired with a simple linen shirt, and looked completely at ease.</p>
+      <p>Now he wears them regularly during summer. They've become his favorite warm-weather pants, actually. The leather has softened and taken on this gorgeous patina. He gets compliments every time, and I've caught him browsing the <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Alpenwahnsinn</a> site looking at <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">traditional vests and shirts</a> to complete the look.</p>
+
+      <h2>The Pieces I Actually Wear</h2>
+      <p>Here's the thing about <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">traditional clothing</a>—it only works if you actually wear it. I've accumulated a small collection now, and these aren't pieces that sit in my closet waiting for special occasions. I wear them.</p>
+      <p>I have a casual <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Dirndl</a> in a deep forest green that I wear to Sunday brunches. It's comfortable, it's pretty, and it makes me feel put-together without trying too hard. I have a more formal one in burgundy with cream lace that's my go-to for any event that calls for "nice but not too fancy."</p>
+      <p>I also discovered <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Landhausmode</a> through the shop—country house style that's like <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Trachten</a>'s more relaxed cousin. These pieces bridge the gap between traditional and everyday. I have a linen blouse with delicate embroidery that I wear with jeans, and a cotton skirt with a subtle folk pattern that works for the office. They're versatile, comfortable, and have this understated elegance that I love.</p>
+      <p>The quality means they last. My first <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Dirndl</a> still looks as good as the day I got it, even after multiple wears and washes. The colors haven't faded, the seams are intact, and the fabric still has that nice weight to it. That's the difference between buying something cheap and buying something good—the cost per wear ends up being so much lower when things actually last.</p>
+
+      <h2>What I've Learned About Traditional Fashion</h2>
+      <p>I used to think <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">traditional clothing</a> was about nostalgia or cultural performance. And sure, there's an element of that. But what I've learned is that these styles have endured because they work. The cuts are flattering, the fabrics are durable, and the attention to detail creates garments that are genuinely beautiful.</p>
+      <p>A well-made <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Dirndl</a> is engineered to fit and flatter. The bodice provides structure and support, the skirt moves beautifully, and the overall silhouette is universally flattering. <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Lederhosen</a> are practical—durable, comfortable, and they age like fine wine. These aren't arbitrary fashion choices; they're the result of generations of refinement.</p>
+      <p>Shopping at places like <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Alpenwahnsinn</a> means you're getting pieces that honor that tradition while still being wearable today. They're not museum pieces—they're <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">clothes you can actually live in</a>.</p>
+
+      <h2>The Unexpected Joy of Caring About Clothes</h2>
+      <p>I never thought I'd be someone who cares this much about <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">traditional Bavarian fashion</a>. But here I am, planning my next purchase (eyeing a blue <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Dirndl</a> with white flowers), and genuinely excited about it.</p>
+      <p>There's something satisfying about owning clothes that are well-made, that tell a story, that connect you to a tradition bigger than yourself. When I wear my <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Dirndl</a>, I think about all the women who've worn similar garments over the centuries, and I feel part of something. That sounds cheesy, but it's true.</p>
+      <p>Plus, I just really like how I look in them. And isn't that reason enough?</p>
+
+      <h2>If You're Curious...</h2>
+      <p>If you're thinking about trying <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">traditional Alpine fashion</a>, my advice is simple: don't cheap out. A poorly made <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Dirndl or Lederhosen</a> will feel like a costume and probably fall apart after one wear. A quality piece will feel like clothing—comfortable, flattering, durable.</p>
+      <p>Start with one good piece. Maybe a <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Dirndl</a> if you're drawn to that, or <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Lederhosen</a> if that's more your style. Wear it, see how it feels, see how people respond. I bet you'll be surprised, like I was, at how much you enjoy it.</p>
+      <p>The <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Alpenwahnsinn</a> shop has been my go-to because they clearly care about what they sell, and that matters. The selection is huge—different colors, styles, price points—so you can find something that works for you. And if you're unsure, their customer service is actually helpful, not just scripted responses.</p>
+      <p>I'm not saying you need to become obsessed with <a href="https://www.linkbux.com/track/2da21sxHeKCaugy2GO0TaLpBriErAxGYvmeX0DieHhTBrPBU1Vp5T8lRz6r2N4_aDHEyz2s_an3jGCVbg_c?url=https%3A%2F%2Fwww.alpenwahnsinn.de">Trachten</a> like I apparently have. But if you're even a little curious, it's worth exploring. You might discover, like I did, that traditional doesn't mean outdated. Sometimes it just means timeless.</p>
+    `,
+    products: []
+  }
+  ,
+  {
+    id: 17,
+    title: "Discover Cécred's Protection Collection for Nourished, Healthy Hair",
+    slug: "discover-cecred-protection-collection-for-nourished-healthy-hair",
+    category: "Product Reviews",
+    author: "Ava Bennett",
+    date: "2026-01-12",
+    readTime: "7 min read",
+    excerpt: "From installation to takedown, <a href=\"https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F\">Cécred</a>'s <a href=\"https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F\">Protection Collection</a> is built to keep the scalp calm, the hair hydrated, and your style looking fresh—without the heavy buildup.",
+    image: "https://images.unsplash.com/photo-wSywHcucHkk?w=1200&q=80",
+    featured: true,
+    content: `
+      <h2>Why Protection Starts With the Scalp</h2>
+      <p>Protective styles can be a game-changer for length retention and day-to-day ease—but only when the hair and scalp underneath stay clean, comfortable, and moisturized. That’s the idea behind <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Cécred</a>’s <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Protection Collection</a>: a tight edit of essentials designed to support nourished, healthy hair from installation to takedown.</p>
+
+      <h2>What Makes the <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Protection Collection</a> Different</h2>
+      <p>A common protective-style mistake is over-layering heavy oils and butters to “seal” dryness—only to end up with itchy buildup and limp roots. The <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Cécred</a> approach focuses on targeted cleansing, scalp refresh, and replenishing moisture so hair stays flexible—not coated.</p>
+
+      <h2>Meet the Five Essentials</h2>
+      <p>If you like a simple routine, this lineup is easy to understand and even easier to use consistently:</p>
+      <ul>
+        <li><strong>Scalp Refreshing Spray:</strong> A no-rinse refresh that helps dissolve and lift buildup between wash days—especially helpful when your parts aren’t as accessible.</li>
+        <li><strong>Detoxifying Shampoo:</strong> A deeper cleanse meant to reset hair after takedown by removing oil, residue, and product film in a single wash.</li>
+        <li><strong>Oil Ritual:</strong> A treatment oil blend for softness and shine; ideal when hair feels thirsty or rough, and a great “seal” step when used lightly.</li>
+        <li><strong>Hair &amp; Scalp Balm:</strong> A richer texture for edges, ends, and any areas that need concentrated care and comfort.</li>
+        <li><strong>Detangling Spray:</strong> A slip-boosting helper for takedown days, when knots and shed-hair tangles can turn into breakage fast.</li>
+      </ul>
+
+      <h2>A Simple Routine: Install → Maintain → Takedown</h2>
+      <h3>1) Before installation</h3>
+      <p>Start with a clean base so your protective style lasts longer and feels better. Cleanse thoroughly, then apply lightweight nourishment so hair is hydrated without feeling greasy.</p>
+
+      <h3>2) During the style</h3>
+      <p>Think “refresh and soothe,” not “pile on.” Use a targeted scalp refresher to keep roots comfortable, then add oil or balm sparingly where dryness shows up (often the perimeter and ends).</p>
+
+      <h3>3) After takedown</h3>
+      <p>This is where buildup and shed-hair tangles can cause the most breakage. Reach for slip first, then cleanse to remove residue, and finish with conditioning steps that restore flexibility and shine.</p>
+
+      <h2>Should You Get the Bundle?</h2>
+      <p>If you’re building a protective-style routine from scratch, the <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Cécred</a> <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Protection Collection</a> bundle is the most streamlined way to cover every stage—cleanse, refresh, nourish, and detangle—without mixing mismatched formulas.</p>
+
+      <h2>Final Take</h2>
+      <p>Nourished, healthy hair isn’t just about what you do on wash day—it’s what you do in between. If you wear braids, twists, or any long-term style, <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Cécred</a>’s <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=7ef2Fnk8vFvRBfwQ5nCvQNMZKviFl7zWFl7UYzsuT6SkD0Eg_bUqXqXldXmmZ08hKsIBLSDQ_c&new=https%3A%2F%2Fcecred.com%2F">Protection Collection</a> is a polished, practical way to keep hair thriving while your style does its job.</p>
+    `,
+    products: []
   }
 ];
 
