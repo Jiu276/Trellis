@@ -67,10 +67,16 @@
 }
 
 .article-date,
-.article-read-time {
+.article-read-time,
+.article-clicks {
   display: flex;
   align-items: center;
   gap: 0.3rem;
+}
+
+.article-clicks {
+  color: var(--primary-color);
+  font-weight: 600;
 }
 
 .article-title {

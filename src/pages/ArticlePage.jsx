@@ -2,6 +2,12 @@ import { useParams, Link } from 'react-router-dom';
 import { articles } from '../data/articles';
 import './ArticlePage.css';
 
+/**
+ * @param {number} value
+ * @returns {string}
+ */
+const formatCount = (value) => new Intl.NumberFormat('en-US').format(value);
+
 const ArticlePage = () => {
   const { slug } = useParams();
   const article = articles.find(a => a.slug === slug);
@@ -38,6 +44,12 @@ const ArticlePage = () => {
               <span>{new Date(article.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
               <span className="meta-separator">•</span>
               <span>{article.readTime}</span>
+              {typeof article.clicks === 'number' && (
+                <>
+                  <span className="meta-separator">•</span>
+                  <span>{formatCount(article.clicks)} clicks</span>
+                </>
+              )}
             </div>
           </div>
         </div>
@@ -118,6 +130,24 @@ const ArticlePage = () => {
                   Expert writer specializing in {article.category.toLowerCase()} and lifestyle trends.
                 </p>
               </div>
+
+              {typeof article.clicks === 'number' && (
+                <div className="sidebar-section article-stats">
+                  <h3>Article Stats</h3>
+                  <div className="stats-list">
+                    <div className="stat-item">
+                      <span className="stat-value">{formatCount(article.clicks)}</span>
+                      <span className="stat-label">Clicks</span>
+                    </div>
+                    {typeof article.orders === 'number' && (
+                      <div className="stat-item">
+                        <span className="stat-value">{formatCount(article.orders)}</span>
+                        <span className="stat-label">Orders</span>
+                      </div>
+                    )}
+                  </div>
+                </div>
+              )}
 
               <div className="sidebar-section">
                 <h3>Categories</h3>

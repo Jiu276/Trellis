@@ -12,6 +12,9 @@ const ArticleCard = ({ article, featured = false }) => {
         <div className="article-meta">
           <span className="article-date">{new Date(article.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
           <span className="article-read-time">{article.readTime}</span>
+          {typeof article.clicks === 'number' && (
+            <span className="article-clicks">{new Intl.NumberFormat('en-US').format(article.clicks)} clicks</span>
+          )}
         </div>
         <h3 className="article-title">{article.title}</h3>
         <p className="article-excerpt">{article.excerpt}</p>
