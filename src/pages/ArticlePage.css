@@ -134,6 +134,14 @@
   color: var(--primary-color);
 }
 
+.article-text img {
+  width: 100%;
+  border-radius: 12px;
+  margin: 1.5rem 0 2rem;
+  display: block;
+  object-fit: cover;
+}
+
 /* Featured Products */
 .featured-products {
   margin: 3rem 0;
