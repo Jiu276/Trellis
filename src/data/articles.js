@@ -982,7 +982,7 @@ export const articles = [
     slug: "hoka-one-shoe-run-commute-weekend-hike",
     category: "Product Reviews",
     author: "Alex Rivera",
-    date: "2026-06-02",
+    date: "2026-05-08",
     readTime: "7 min read",
     clicks: 3800,
     orders: 38,
