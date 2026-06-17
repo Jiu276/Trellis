@@ -25,7 +25,8 @@ const ArticlePage = () => {
   return (
     <main className="article-page">
       {/* Article Header */}
-      <div className="article-header" style={{ backgroundImage: `url(${article.image})` }}>
+      <div className="article-header">
+        <img src={article.image} alt="" className="article-header-image" aria-hidden="true" />
         <div className="article-header-overlay"></div>
         <div className="container">
           <div className="article-header-content fade-in">

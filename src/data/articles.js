@@ -987,7 +987,7 @@ export const articles = [
     clicks: 3800,
     orders: 38,
     excerpt: "I used to rotate between three different pairs of shoes for running, commuting, and hiking. Then I found one HOKA that does it all—and I haven't looked back since.",
-    image: "https://images.unsplash.com/photo-1595950653102-66cbea3a8945?w=1200&q=80",
+    image: "/images/hoka/cover.jpg",
     featured: true,
     content: `
       <h2>The Three-Shoe Problem I Didn't Know I Had</h2>
@@ -995,19 +995,19 @@ export const articles = [
       <p>Then a running-store employee pointed me toward <a href="https://www.hoka.com/en/us/">HOKA</a>. I'd seen the chunky soles before and assumed they were only for ultra-marathoners. I was wrong. What started as a skeptical try-on turned into the only <a href="https://www.hoka.com/en/us/">shoe</a> I reach for, whether I'm logging miles, rushing to catch the 7:15, or climbing a ridge on Saturday morning.</p>
 
       <h2>Why HOKA's Cushioning Actually Makes Sense Off-Road</h2>
-      <img src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1200&q=80" alt="Person running on an outdoor track in plain athletic shoes" />
+      <img src="/images/hoka/run.jpg" alt="Woman jogging on a park path at golden hour in plain athletic sneakers" />
       <p><a href="https://www.hoka.com/en/us/">HOKA</a> built its reputation on maximal cushioning and a Meta-Rocker geometry that rolls you forward with each stride. On pavement, that means less impact on your knees during a five-mile <a href="https://www.hoka.com/en/us/">run</a>. On gravel and rooty singletrack, the same platform absorbs the uneven ground so your ankles aren't doing all the work.</p>
       <p>I tested the Clifton line first—a daily trainer that's light enough for speed work but cushioned enough for long <a href="https://www.hoka.com/en/us/">runs</a>. The difference was immediate. My usual post-<a href="https://www.hoka.com/en/us/">run</a> foot fatigue dropped noticeably within the first week. When I wore the same pair on a moderate <a href="https://www.hoka.com/en/us/">hike</a> in the Catskills, I expected squishy instability. Instead, the wide base and rockered sole kept me steady on descents.</p>
       <p>If your weekends skew more technical, the Speedgoat series on the <a href="https://www.hoka.com/en/us/">HOKA</a> site is built specifically for trail grip and protection. But for my mix of city miles and casual trail days, one versatile <a href="https://www.hoka.com/en/us/">shoe</a> covered more ground than I thought possible.</p>
 
       <h2>My Commute: Where Most Shoes Fail</h2>
-      <img src="https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=1200&q=80" alt="City street commute on foot through downtown sidewalks" />
+      <img src="/images/hoka/commute.jpg" alt="Person walking on a city sidewalk during a morning commute in sneakers" />
       <p>Commuting is the hidden stress test. You're on hard sidewalks, sometimes sprinting for a bus, sometimes standing on a crowded platform for twenty minutes. A stiff <a href="https://www.hoka.com/en/us/">running shoe</a> can feel awkward walking; a casual sneaker falls apart after a few <a href="https://www.hoka.com/en/us/">runs</a>.</p>
       <p>What surprised me about <a href="https://www.hoka.com/en/us/">HOKA</a> is how the cushioning doesn't feel like walking on marshmallows all day. The rocker smooths out the heel-to-toe transition, so my <a href="https://www.hoka.com/en/us/">commute</a> feels less like a march and more like a glide. I wear them straight from the apartment to the office (yes, with normal clothes—they don't scream "gym bro" the way some performance <a href="https://www.hoka.com/en/us/">shoes</a> do).</p>
       <p>After three months of daily wear, the outsole on my pair still has plenty of life. That's the other thing: when one <a href="https://www.hoka.com/en/us/">shoe</a> handles multiple jobs, you're not burning through three pairs a year. The cost per mile—and per <a href="https://www.hoka.com/en/us/">commute</a>—drops fast.</p>
 
       <h2>Weekend Hikes Without Packing a Second Pair</h2>
-      <img src="https://images.unsplash.com/photo-1551632817-562735d43838?w=1200&q=80" alt="Weekend hike on a forest trail with scenic mountain views" />
+      <img src="/images/hoka/hike.jpg" alt="Person hiking uphill on a mountain trail in athletic trail shoes" />
       <p>Last fall I did a six-mile loop with a friend who insisted I bring "real <a href="https://www.hoka.com/en/us/">hiking shoes</a>." I showed up in my <a href="https://www.hoka.com/en/us/">HOKA</a> Cliftons anyway. Halfway through, she asked to try them on a rocky section because her boots felt heavy.</p>
       <p>I'm not saying they replace a mountaineering boot on serious alpine terrain. But for the kind of weekend <a href="https://www.hoka.com/en/us/">hike</a> most of us actually do—moderate elevation, mixed terrain, three to eight miles—they're more than capable. The Vibram outsole options on trail models like the Speedgoat add bite on wet rock; the Bondi line offers even more cushion if you're carrying a light pack.</p>
       <p>Browse the <a href="https://www.hoka.com/en/us/">HOKA</a> trail collection and you'll see they segment by use case: road, trail, and hybrid daily trainers. That clarity helped me stop overthinking and pick one workhorse instead of a rotation I never fully used.</p>
@@ -1023,7 +1023,7 @@ export const articles = [
       <p>If you're stuck, the <a href="https://www.hoka.com/en/us/">HOKA</a> shoe finder on their site narrows options by activity and distance. It pointed me to the Clifton before I even knew what Meta-Rocker meant.</p>
 
       <h2>What Changed After Six Months</h2>
-      <img src="https://images.unsplash.com/photo-1549298916-b41d501d3772?w=1200&q=80" alt="Pair of plain everyday athletic sneakers ready by the front door" />
+      <img src="/images/hoka/sneakers.jpg" alt="Pair of plain everyday athletic sneakers by the front door" />
       <p>I used to treat footwear like specialized tools—one for each job. Now I treat my <a href="https://www.hoka.com/en/us/">HOKA</a> pair like a reliable daily driver. Fewer decisions in the morning. Less clutter by the door. And my feet, knees, and lower back all noticed the consistency.</p>
       <p>The morning <a href="https://www.hoka.com/en/us/">run</a> feels smoother. The <a href="https://www.hoka.com/en/us/">commute</a> doesn't leave my arches aching. Weekend <a href="https://www.hoka.com/en/us/">hikes</a> start without a gear debate. That's not marketing copy—that's just what happened when I stopped splitting my life across three mediocre <a href="https://www.hoka.com/en/us/">shoes</a>.</p>
       <p>I'm not a <a href="https://www.hoka.com/en/us/">HOKA</a> ambassador. I paid full price. But when something works across <a href="https://www.hoka.com/en/us/">run</a>, <a href="https://www.hoka.com/en/us/">commute</a>, and <a href="https://www.hoka.com/en/us/">hike</a> without compromise, it earns a permanent spot by the front door.</p>
