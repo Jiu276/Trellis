@@ -1039,7 +1039,7 @@ export const articles = [
     slug: "fermented-rice-rose-protein-cecred-changed-my-hair",
     category: "Product Reviews",
     author: "Monique Wells",
-    date: "2026-05-27",
+    date: "2025-12-28",
     readTime: "8 min read",
     clicks: 4500,
     orders: 45,
