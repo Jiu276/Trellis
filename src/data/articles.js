@@ -1104,6 +1104,63 @@ export const articles = [
       <p><a href="https://cecred.com/">Cécred</a> did. And I didn't have to ferment anything in a mason jar to get there.</p>
     `,
     products: []
+  },
+  {
+    id: 20,
+    title: "My Suitcase Used to Be Chaos. Then LOJEL's Ordo Packing Kits Gave Me Peace of Mind.",
+    slug: "lojel-ordo-packing-kits-suitcase-peace-of-mind",
+    category: "Travel Deals",
+    author: "Jordan Pierce",
+    date: "2026-05-04",
+    readTime: "8 min read",
+    clicks: 4100,
+    orders: 41,
+    excerpt: "I used to open my suitcase in a hotel room and immediately regret how I packed. One weekend trip with LOJEL's Ordo system changed that—and I haven't gone back to the zip-and-pray method since.",
+    image: "/images/lojel/cover.jpg",
+    featured: true,
+    content: `
+      <h2>The Hotel Room Unzip of Doom</h2>
+      <p>Picture this: you've just landed, you're tired, you pop open your <a href="https://www.linkbux.com/track/a8bePuOfxfsWMq1O6ieu7Ok_buu6d1o5mzSZ8uMD7R9S_aPpJvzl8LVFslaJYF6BU_blLh46vyhM6mI?url=https%3A%2F%2Fus.lojel.com%2F">suitcase</a>, and a rolled sock falls out like it's making a break for freedom. That was me for years. Shirts buried under shoes. Charger tangled in a belt. I'd spent twenty minutes at home "organizing" and still ended up digging through layers like I was archaeologizing my own closet.</p>
+      <p>I tried cheap cubes from a big-box store. They helped for about one trip, then the zippers started catching and the mesh tore at a corner. I tried the roll-everything-tight method influencers love. Looks great in a video. In real life my button-downs still came out creased and confused.</p>
+      <p>What finally stuck wasn't a packing hack. It was a system—specifically <a href="https://www.linkbux.com/track/a8bePuOfxfsWMq1O6ieu7Ok_buu6d1o5mzSZ8uMD7R9S_aPpJvzl8LVFslaJYF6BU_blLh46vyhM6mI?url=https%3A%2F%2Fus.lojel.com%2F">LOJEL</a>'s Ordo <a href="https://www.linkbux.com/track/a8bePuOfxfsWMq1O6ieu7Ok_buu6d1o5mzSZ8uMD7R9S_aPpJvzl8LVFslaJYF6BU_blLh46vyhM6mI?url=https%3A%2F%2Fus.lojel.com%2F">Packing Kits</a>. I bought the Travel Kit first because I had a four-day work trip and zero patience left.</p>
+
+      <h2>What Ordo Actually Is (Not Just Another Cube Set)</h2>
+      <img src="/images/lojel/packing.jpg" alt="Hands placing folded clothes into a packing cube inside an open suitcase" />
+      <p>The <a href="https://www.linkbux.com/track/a8bePuOfxfsWMq1O6ieu7Ok_buu6d1o5mzSZ8uMD7R9S_aPpJvzl8LVFslaJYF6BU_blLh46vyhM6mI?url=https%3A%2F%2Fus.lojel.com%2F">LOJEL</a> site calls it "packing made personal," which I'd normally side-eye. But the Ordo line is modular in a way that actually matches how people travel—not how a Pinterest board travels.</p>
+      <p>The Travel <a href="https://www.linkbux.com/track/a8bePuOfxfsWMq1O6ieu7Ok_buu6d1o5mzSZ8uMD7R9S_aPpJvzl8LVFslaJYF6BU_blLh46vyhM6mI?url=https%3A%2F%2Fus.lojel.com%2F">Packing Kit</a> is five pieces: one extra-large, two large, two medium. What sold me is the diagonal wide opening—you're not fishing through a tiny top zip to grab one shirt. You open it like a drawer. Some pouches have mesh windows so you can see what's inside; others are fully opaque for stuff you'd rather not flash in a hotel lobby.</p>
+      <p>They're machine-washable and made from recycled materials, which matters when you're throwing them on hotel floors and stuffing them with gym clothes that didn't fully dry. Small detail, big difference over a long trip.</p>
+
+      <h2>My First Pack With the Travel Kit</h2>
+      <p>I sorted by outfit, not by item type. Cube one: two work days. Cube two: casual dinners. Medium cubes: underwear, socks, the stuff that usually explodes everywhere. Everything slid into my carry-on without the usual Tetris panic.</p>
+      <p>At the hotel I pulled out one cube for the meeting portion of the trip and left the rest zipped. That sounds obvious, but if you've ever lived out of a single open <a href="https://www.linkbux.com/track/a8bePuOfxfsWMq1O6ieu7Ok_buu6d1o5mzSZ8uMD7R9S_aPpJvzl8LVFslaJYF6BU_blLh46vyhM6mI?url=https%3A%2F%2Fus.lojel.com%2F">suitcase</a> for four days, you know how fast chaos returns. I didn't unpack fully. I didn't need to. I just opened the one pouch I needed and closed it again.</p>
+      <p>The site mentions these fit cleanly inside <a href="https://www.linkbux.com/track/a8bePuOfxfsWMq1O6ieu7Ok_buu6d1o5mzSZ8uMD7R9S_aPpJvzl8LVFslaJYF6BU_blLh46vyhM6mI?url=https%3A%2F%2Fus.lojel.com%2F">LOJEL</a>'s Cubo and Voja luggage. I'm using a non-LOJEL hardside I've had for years, and they still fit fine—snug, but not fighting the zipper.</p>
+
+      <h2>When I Added the Compression Kit</h2>
+      <img src="/images/lojel/compression.jpg" alt="Compression packing cube with dual zippers inside an open suitcase" />
+      <p>A ski weekend broke my "carry-on only" streak. Bulky sweater, puffer layer, normal person problems. I picked up the Ordo Compression <a href="https://www.linkbux.com/track/a8bePuOfxfsWMq1O6ieu7Ok_buu6d1o5mzSZ8uMD7R9S_aPpJvzl8LVFslaJYF6BU_blLh46vyhM6mI?url=https%3A%2F%2Fus.lojel.com%2F">Packing Kit</a> after that trip—three pouches with dual-zipper compression that actually shrinks soft bulk instead of just rearranging it.</p>
+      <p>I packed the puffer and a thick knit into the extra-large, zipped the compression layer, and watched the cube flatten in a way my old cubes never managed. Side handles made it easy to yank out at the rental without unpacking the whole <a href="https://www.linkbux.com/track/a8bePuOfxfsWMq1O6ieu7Ok_buu6d1o5mzSZ8uMD7R9S_aPpJvzl8LVFslaJYF6BU_blLh46vyhM6mI?url=https%3A%2F%2Fus.lojel.com%2F">suitcase</a>. On the way home I used the same cubes to compress dirty laundry and freed up space for things I bought on the trip. That's the peace-of-mind part—not packing more for the sake of it, but knowing you have room when life happens.</p>
+
+      <h2>The Everyday Kit for the Stuff That Isn't Clothes</h2>
+      <img src="/images/lojel/everyday.jpg" alt="Small travel pouches with toiletries and accessories laid out beside a backpack" />
+      <p>Clothes were solved. My mess moved to the small stuff—cables, travel-size skincare, receipts, random adapters floating loose in outer pockets. The Ordo Everyday <a href="https://www.linkbux.com/track/a8bePuOfxfsWMq1O6ieu7Ok_buu6d1o5mzSZ8uMD7R9S_aPpJvzl8LVFslaJYF6BU_blLh46vyhM6mI?url=https%3A%2F%2Fus.lojel.com%2F">Packing Kit</a> is five smaller pouches with a mix of mesh and opaque fabric, plus a carabiner to clip them together or hang off a backpack.</p>
+      <p>I keep one pouch permanently stocked with chargers and a battery pack. Another holds toiletries—I pair it with their Toiletry Pouch when I'm gone more than a night because it stands upright on a counter and doesn't dump everything when you unzip it. The Essentials Pouch is the one I grab for daily commutes even when I'm not traveling. Same system, smaller scale.</p>
+
+      <h2>What Changed on the Road</h2>
+      <img src="/images/lojel/travel.jpg" alt="Traveler pulling an organized packing cube from a suitcase in a hotel room" />
+      <p>I used to dread repacking. Now it's boring in a good way. Each cube goes back where it lived. Dirty items get their own pouch instead of contaminating everything else. Security checks are faster because I'm not pulling out a tornado of fabric.</p>
+      <p>It's not about looking like a minimalist influencer with a perfectly curated capsule wardrobe. I still overpack sometimes. The difference is the overpacking is contained. When my flight got delayed six hours last month, I wasn't sitting on the airport floor rebuilding my bag. I pulled the one cube with snacks, a hoodie, and my Kindle. Done.</p>
+      <p><a href="https://www.linkbux.com/track/a8bePuOfxfsWMq1O6ieu7Ok_buu6d1o5mzSZ8uMD7R9S_aPpJvzl8LVFslaJYF6BU_blLh46vyhM6mI?url=https%3A%2F%2Fus.lojel.com%2F">LOJEL</a> also offers free standard shipping and free returns on the US site, which took the sting out of trying a full kit instead of guessing on one pouch. Ten-year warranty on their luggage line isn't something I needed for the cubes themselves, but it told me the brand thinks long-term—not disposable travel junk.</p>
+
+      <h2>How I'd Build Your Kit</h2>
+      <p>If your main pain is clothing chaos in a checked or carry-on bag, start with the Travel <a href="https://www.linkbux.com/track/a8bePuOfxfsWMq1O6ieu7Ok_buu6d1o5mzSZ8uMD7R9S_aPpJvzl8LVFslaJYF6BU_blLh46vyhM6mI?url=https%3A%2F%2Fus.lojel.com%2F">Packing Kit</a>. One trip. Pack by outfit or by day—whichever matches your brain.</p>
+      <p>If you routinely travel with bulky layers or seasonal gear, add the Compression <a href="https://www.linkbux.com/track/a8bePuOfxfsWMq1O6ieu7Ok_buu6d1o5mzSZ8uMD7R9S_aPpJvzl8LVFslaJYF6BU_blLh46vyhM6mI?url=https%3A%2F%2Fus.lojel.com%2F">Packing Kit</a> next. That's the combo the site suggests, and it's the one I actually use.</p>
+      <p>If your <a href="https://www.linkbux.com/track/a8bePuOfxfsWMq1O6ieu7Ok_buu6d1o5mzSZ8uMD7R9S_aPpJvzl8LVFslaJYF6BU_blLh46vyhM6mI?url=https%3A%2F%2Fus.lojel.com%2F">suitcase</a> is fine but your backpack or tote is a black hole, grab the Everyday Kit and thank yourself at the TSA bin.</p>
+
+      <h2>Final Word</h2>
+      <p>I didn't need another <a href="https://www.linkbux.com/track/a8bePuOfxfsWMq1O6ieu7Ok_buu6d1o5mzSZ8uMD7R9S_aPpJvzl8LVFslaJYF6BU_blLh46vyhM6mI?url=https%3A%2F%2Fus.lojel.com%2F">suitcase</a>. I needed my existing one to stop betraying me every time I opened it. The Ordo <a href="https://www.linkbux.com/track/a8bePuOfxfsWMq1O6ieu7Ok_buu6d1o5mzSZ8uMD7R9S_aPpJvzl8LVFslaJYF6BU_blLh46vyhM6mI?url=https%3A%2F%2Fus.lojel.com%2F">Packing Kits</a> from <a href="https://www.linkbux.com/track/a8bePuOfxfsWMq1O6ieu7Ok_buu6d1o5mzSZ8uMD7R9S_aPpJvzl8LVFslaJYF6BU_blLh46vyhM6mI?url=https%3A%2F%2Fus.lojel.com%2F">LOJEL</a> didn't turn me into a different traveler. They just removed the part of travel I genuinely hated—the moment of opening the bag and not knowing what I'd find.</p>
+      <p>That's peace of mind. And it fits in the <a href="https://www.linkbux.com/track/a8bePuOfxfsWMq1O6ieu7Ok_buu6d1o5mzSZ8uMD7R9S_aPpJvzl8LVFslaJYF6BU_blLh46vyhM6mI?url=https%3A%2F%2Fus.lojel.com%2F">suitcase</a> you already own.</p>
+    `,
+    products: []
   }
 ];
 
